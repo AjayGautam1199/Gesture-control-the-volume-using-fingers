@@ -21,7 +21,7 @@ Gesture Control Volume is a Python project that allows users to control the volu
 
 ## Demo
 
-![Demo GIF](demo_image.gif)
+![Demo GIF](demo_gesture.gif)
 
 
 
